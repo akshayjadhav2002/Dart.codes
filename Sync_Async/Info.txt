@@ -1,0 +1,5 @@
+#SYNCHRONUS AND ASYNCHRONUS diff
+    Synchronous operation blocks other operations from running until it completes.
+    Synchronous function only perform a synchronous operation.
+    Asynchronous operation allows other operations to run before it completes.
+    Asynchronous function performs at least one asynchronous operation and can also perform synchronous operations.

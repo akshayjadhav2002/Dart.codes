@@ -11,7 +11,9 @@ abstract class demo2{
     }
     void fun4();
 }
-class childdemo implements demo1,demo2{
+/*class childdemo implements demo1,demo2{
+  //|************************here we have to give body to every  method which is definned in parent classes wheather we have to implement or use that method in practice 
+  //this increases the code redundancy and code reusability  is reduced in it.***********************************************|  
     void fun2(){
       print("In childdemo - fun2");
     }
@@ -25,4 +27,4 @@ void main(){
   obj.fun2();
   obj.fun3();
   obj.fun4();
-}
+}*/

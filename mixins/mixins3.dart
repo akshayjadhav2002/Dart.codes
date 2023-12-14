@@ -14,7 +14,7 @@ class Normal with demo1,demo2 {
  void pri (){
   print("inside normal");
  }
- void fun1 ();
+ 
 }
 void main(){
  Normal obj = new Normal();
