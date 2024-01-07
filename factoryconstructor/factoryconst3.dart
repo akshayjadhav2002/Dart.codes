@@ -9,7 +9,7 @@ class demo{
 }
 
 void main (){
-  demo obj1 = new demo();
+  //demo obj1 = new demo();
   //Expected two output but actual its output is one
   print(demo.obj);
   print(demo.x);
